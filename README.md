@@ -1,0 +1,1 @@
+# opp_dummy_ansible_observe
